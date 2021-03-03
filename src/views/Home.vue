@@ -17,6 +17,7 @@
 // @ is an alias to /src
 
 //https://serversideup.net/uploading-files-vuejs-axios/
+//https://codepen.io/joezimjs/pen/yPWQbd
 
 import papaparse from 'papaparse'
 
@@ -40,6 +41,7 @@ export default {
 
       //https://edwardize.blogspot.com/2018/04/parsinf-csv-file-import-javascript-vuejs.html
       //https://www.joyofdata.de/blog/parsing-local-csv-file-with-javascript-papa-parse/
+      
 
       //have to check the browswer has a FileReader
       if(window.FileReader){
